@@ -22,8 +22,8 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/yufeixuan/easycaptcha</url>
-        <connection>https://github.com/yufeixuan/easycaptcha.git</connection>
+        <url>https://github.com/UgoTran/easy-captcha/   </url>
+        <connection>https://github.com/UgoTran/easy-captcha.git</connection>
     </scm>
 
     <dependencies>
